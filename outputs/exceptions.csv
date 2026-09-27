@@ -1,0 +1,14 @@
+vendor,invoice_id,matched_with,amount,test
+Fast Freight Ltd,INV-1058,INV-1058,4809.83,Test 1 - Exact duplicate
+Fast Freight Ltd,INV-2003,INV-1199,4130.43,"Test 2 - Same vendor + amount, close dates"
+Evergreen Catering,INV-2000,INV-1112,3978.74,"Test 2 - Same vendor + amount, close dates"
+Delta IT Solutions,INV1139,INV-1139,3791.55,"Test 2 - Same vendor + amount, close dates, Test 3 - Near-duplicate invoice number"
+Delta IT Solutions,INV-2001,INV-1029,3547.92,"Test 2 - Same vendor + amount, close dates"
+Alpha Supplies Ltd,INV1051,INV-1051,2919.82,"Test 2 - Same vendor + amount, close dates, Test 3 - Near-duplicate invoice number"
+Alpha Supplies Ltd,INV-2002,INV-1182,2332.72,"Test 2 - Same vendor + amount, close dates"
+Iron Security Ltd,INV-1040,INV-1040,1935.6,Test 1 - Exact duplicate
+Iron Security Ltd,INV1040,INV-1040,1935.6,"Test 2 - Same vendor + amount, close dates, Test 2 - Same vendor + amount, close dates, Test 3 - Near-duplicate invoice number, Test 3 - Near-duplicate invoice number"
+Green Energy UK,INV-1102,INV-1102,1664.64,Test 1 - Exact duplicate
+City Cleaning Services,INV-1184,INV-1184,1459.17,Test 1 - Exact duplicate
+Green Energy UK,INV-1034,INV-1034,948.69,Test 1 - Exact duplicate
+Delta IT Solutions,INV1197,INV-1197,896.82,"Test 2 - Same vendor + amount, close dates, Test 3 - Near-duplicate invoice number"
